@@ -81,6 +81,12 @@ The prediction notebook checkpoints its output and resumes where it stopped auto
 Exact prompts, model snapshot identifiers, sampling procedures,
 ablation rules, and evaluation metrics are provided in the notebooks, with deeper explanations available in the supplementary material and main paper.
 
+## License
+
+The original code in this repository is released under the MIT License.
+Third-party datasets and software dependencies remain subject to their
+respective licenses.
+
 ## References
 
 - Pennebaker, J. W.; and King, L. A. 1999. Linguistic Styles: Language Use as an Individual Difference. Journal of Personality and Social Psychology, 77(6): 1296–1312.
