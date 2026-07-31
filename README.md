@@ -1,5 +1,5 @@
-# LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM
-Personality Classification in Black-Box Settings
+# LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM Personality Classification in Black-Box Settings
+![LEX-EC framework process](Framework_Process.png)
 
 This package contains the code used for the experiments reported in
 the LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM
