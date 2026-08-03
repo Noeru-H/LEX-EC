@@ -22,8 +22,7 @@ Install the required packages with:
 ## Computing infrastructure
 
 Preprocessing, ablation, API orchestration, and statistical analyses were
-run on WSL2 on Windows10 using an AMD Ryzen 9 5900X 12-core Processor with 64 GB
-of memory. While the system had a CUDA-capable GPU, it was not explicitly used in the experiments. As the LLM vendors are private companies, the provisioned hardware for these is unknown.
+run on WSL2 on Windows10 using an AMD Ryzen 9 5900X 12-core Processor with 64 GB DDR4 RAM. While the system had a CUDA-capable GPU, it was not explicitly used in the experiments. As the LLM vendors are private companies, the provisioned hardware for these is unknown.
 
 The authors note that the main performance bottlenecks were related not to the host system, but waiting for the LLM vendors to return outputs via the API. Please note that a single complete run over all configurations takes several hours.
 
